@@ -51,7 +51,7 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "rpc-request": "^4.0.9",
+    "rpc-request": "^7.1.10",
     "snyk": "^1.388.0"
   },
   "directories": {
